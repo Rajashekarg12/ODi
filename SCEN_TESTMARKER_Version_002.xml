@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.04" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="pQTBIS/v+b8K3DqTxcvNBw==" exportKeySalt="f1827177-f77e-4a40-b5d6-59655423a28d" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="S2CoowUx5iq3tRuNUqMuTA==" exportKeySalt="61de6a94-ed85-4018-901c-dc83c4b5346a" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpScen">
 		<Field name="CecSessBehavior" type="java.lang.String">null</Field>
 	<Field name="CecSessPollIntv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
