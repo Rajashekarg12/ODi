@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="luwd1bLpkHIdLkhBO7IXwg==" exportKeySalt="7064a9ca-0520-4012-81ba-604e40dfb093" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="EcjO/YM5D2upUfX4bok1vg==" exportKeySalt="24200b83-d74d-4bb3-9eb4-5cd39dec22f5" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpLoadPlan">
 		<Field name="CecLprBehavior" type="java.lang.String"><![CDATA[E]]></Field>
 	<Field name="CecLprPollIntv" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
